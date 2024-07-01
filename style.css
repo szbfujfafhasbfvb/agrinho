@@ -31,7 +31,39 @@ body{
 }
 
 .agrinho{
-    background-image: linear-gradient(223, 183, 179);
-    color: white;
+    background-color: rgb(223, 183, 179);
+    color: rgb(0, 0, 0);
     display: flex;
+    font-size: 30px;
 }
+
+.agrinho-texto-dois{
+    background-image: linear-gradient(223, 183, 179);
+    color: rgb(228, 44, 44);
+    display: flex;
+    font-size: 50px;
+
+}
+
+.agrinho-texto-um{
+    background-image: linear-gradient(223, 183, 179);
+    color: rgb(0, 0, 0);
+    display: flex;
+    font-size: 30px;
+}
+
+.agrinho-titulo{
+    background-image: linear-gradient(223, 183, 179);
+    color: rgb(228, 44, 44);
+    display: flex;
+    font-size: 50px;
+}
+
+.agrinho-texto-tres{
+    background-image: linear-gradient(223, 183, 179);
+    color: rgb(0, 0, 0);
+    display: flex;
+    font-size: 30px;
+}
+
+
