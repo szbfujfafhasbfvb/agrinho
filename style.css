@@ -66,4 +66,18 @@ body{
     font-size: 30px;
 }
 
+.rodape{
+    background-color: rgba(223, 183, 179);
+    text-align: left;
+    font-size: 20px;
+}
 
+.rodape-imagem{
+    height: 200px;
+}
+
+.agrinho-caquei{
+    background-image: linear-gradient(223, 183, 179);
+    color: rgb(0, 0, 0);
+    font-size: 10px;
+}
